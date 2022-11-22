@@ -1,2 +1,2 @@
 # guicalendar-python-
-Your mini project 
+Your GUI calendar as a mini project 
